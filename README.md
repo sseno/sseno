@@ -1,4 +1,15 @@
-### Hi there 👋
+## Hi, Seno here. 👋
+
+I'm an <b>iOS Developer</b>. I am interested in mobile application development. Currently working as full time iOS Developer at <b>Technopartner.id</b> in Yogyakarta.
+  
+Get in touch:
+
+<ul>
+  <li>Check my portofolio at https://sseno.github.io </li>
+  <li>Connect and view my background at https://linkedin.com/in/rohmatsuseno </li>
+</ul>
+
+You can also view my open source projects below.
 
 <!--
 **sseno/sseno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
