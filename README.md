@@ -1,6 +1,6 @@
 ## Hi, Seno here. 👋
 
-I'm an <b>iOS Developer</b>. I am interested in mobile application development. Currently working as full time iOS Developer at <b>Technopartner.id</b> in Yogyakarta.
+I'm an <b>iOS Developer</b>. I am interested in mobile application development. Currently working as full time iOS Developer in Yogyakarta.
   
 Get in touch:
 
