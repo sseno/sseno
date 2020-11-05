@@ -5,7 +5,7 @@ I am interested in mobile application development. Currently working as full tim
 Get in touch:
 
 <ul>
-  <li>Check my portofolio at https://sseno.github.io </li>
+<!--   <li>Check my portofolio at https://sseno.github.io </li> -->
   <li>Connect and view my background at https://linkedin.com/in/rohmatsuseno </li>
 </ul>
 
