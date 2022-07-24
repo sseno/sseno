@@ -1,6 +1,6 @@
 ## Yoo~ 👋
 
-I am interested in mobile application development. Currently working as full time iOS Developer in Yogyakarta.
+I am interested in mobile application development. Currently working as full-time iOS Engineer in Yogyakarta.
   
 Get in touch:
 
